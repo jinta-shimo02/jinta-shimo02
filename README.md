@@ -6,7 +6,7 @@
 
 ## 💻 Skills
 <p align="center">
-  <img height="60" src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,ruby,rails,redis,mysql,docker,aws,git,github,vscode,discord" alt="My Skills" />
+  <img height="100" src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,ruby,rails,redis,mysql,docker,aws,git,github,vscode,discord" alt="My Skills" />
 </p>
 
 ## 📊 GitHub Stats
