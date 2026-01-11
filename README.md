@@ -16,7 +16,7 @@
 
 ## 📬 Get in Touch
 - 🐦 Twitter: [@jin_XXX222](https://x.com/jin_XXX222)
-- 🟢 Qitta: [@jinta_02](https://qiita.com/jinta_02)
+- 🟢 Qiita: [@jinta_02](https://qiita.com/jinta_02)
 - 💻 Business Github Account: [shimosaka-jinta](https://github.com/shimosaka-jinta)
 ---
 <p align="center">
