@@ -1,19 +1,26 @@
 # 👋 こんにちは、Jintaです！
 
 ## 🙋 About Me
-見ていただきありがとうございます！
-普段は株式会社ネクスウェイでWebエンジニアをしております。言語はRubyが得意ですが、タスクに応じてVueやTypeScriptも書いております。
+
+- エンジニア2年目
+- 株式会社ネクスウェイ：バックエンドエンジニア（フロントエンド）
 
 ## 💻 Skills
-<p align="center">
-  <img height="100" src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,ruby,rails,redis,mysql,docker,aws,git,github,vscode,discord" alt="My Skills" />
-</p>
+### Main Skills
+<img height="100" src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,ruby,rails" alt="My Skills" />
+
+HTML / CSS / JS / TS / Vue / Nuxt / Ruby / Rails
+
+### Other Skils
+<img height="100" src="https://skillicons.dev/icons?i=redis,mysql,docker,aws,git,github,vscode,discord" alt="My Skills" />
+
+Redis / MySQL / Docker / AWS / Git / Github / VSCode / Discord
 
 ## 📬 Get in Touch
 - 🐦 Twitter: [@jin_XXX222](https://x.com/jin_XXX222)
 - 🟢 Qiita: [@jinta_02](https://qiita.com/jinta_02)
-- 💻 Business Github Account: [shimosaka-jinta](https://github.com/shimosaka-jinta)
+- 🧑‍💻 Business Github Account: [shimosaka-jinta](https://github.com/shimosaka-jinta)
 ---
 <p align="center">
-  <strong>Thank you for visiting my profile! ⭐ Don't forget to star my repositories if you find them useful!</strong>
+  <strong>見ていただきありがとうございます⭐️</strong>
 </p>
