@@ -17,7 +17,7 @@ HTML / CSS / JS / TS / Vue / Nuxt / Ruby / Rails
 Redis / MySQL / Docker / AWS / Git / Github / VSCode / Discord
 
 ## 📬 Get in Touch
-- 🐦 Twitter: [@jin_XXX222](https://x.com/jin_XXX222)
+- 🐦 X: [@jin_XXX222](https://x.com/jin_XXX222)
 - 🟢 Qiita: [@jinta_02](https://qiita.com/jinta_02)
 - 🧑‍💻 Business Github Account: [shimosaka-jinta](https://github.com/shimosaka-jinta)
 ---
